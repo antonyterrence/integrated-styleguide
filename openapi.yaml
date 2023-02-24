@@ -1,0 +1,4 @@
+unified:
+  - page: openapi/rock.page.yaml
+  - page: openapi/paper.page.yaml
+  - page: openapi/scissors.page.yaml
